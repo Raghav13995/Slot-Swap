@@ -64,6 +64,3 @@ You can configure a custom domain with your hosting provider. Point the domain t
 
 Feel free to fork the repository, create branches for features or bug fixes, and submit pull requests.
 
-## License
-
-Specify your license here (e.g., MIT).
